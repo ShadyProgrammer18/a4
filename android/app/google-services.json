@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755784174790",
+    "project_id": "taxi-clone-335e4",
+    "storage_bucket": "taxi-clone-335e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755784174790:android:cbd1bc68c7b3bfe68d9bc7",
+        "android_client_info": {
+          "package_name": "com.example.a4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755784174790-og3tlcoib3gqonmatd2uvem4v9tv9pc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-plRh2NKJOqVfII_VhUwY13KyTvW5VuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755784174790-og3tlcoib3gqonmatd2uvem4v9tv9pc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
